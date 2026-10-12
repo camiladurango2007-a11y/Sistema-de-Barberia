@@ -1,6 +1,0 @@
-@ASP_Servicios_HostAddress = http://localhost:5122
-
-GET {{ASP_Servicios_HostAddress}}/
-Accept: application/json
-
-###
