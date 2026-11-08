@@ -1,0 +1,212 @@
+[
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.BarberiaController",
+    "Method": "ObtenerTodo",
+    "RelativePath": "Barberia",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.BarberosController",
+    "Method": "Get",
+    "RelativePath": "Barberos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.CajasDiariasController",
+    "Method": "Get",
+    "RelativePath": "CajasDiarias",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.CategoriasProductoController",
+    "Method": "Get",
+    "RelativePath": "CategoriasProducto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.CitasController",
+    "Method": "Get",
+    "RelativePath": "Citas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.CitaServiciosController",
+    "Method": "Get",
+    "RelativePath": "CitaServicios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.ClientesController",
+    "Method": "Get",
+    "RelativePath": "Clientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.DetalleVentaProductosController",
+    "Method": "Get",
+    "RelativePath": "DetalleVentaProductos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.HorariosDisponibilidadController",
+    "Method": "Get",
+    "RelativePath": "HorariosDisponibilidad",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.MetodosPagoController",
+    "Method": "Get",
+    "RelativePath": "MetodosPago",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.PagosController",
+    "Method": "Get",
+    "RelativePath": "Pagos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.PermisosController",
+    "Method": "Get",
+    "RelativePath": "Permisos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.ProductosController",
+    "Method": "Get",
+    "RelativePath": "Productos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.PromocionesController",
+    "Method": "Get",
+    "RelativePath": "Promociones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.ProveedoresController",
+    "Method": "Get",
+    "RelativePath": "Proveedores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.RolesController",
+    "Method": "Get",
+    "RelativePath": "Roles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.RolPermisosController",
+    "Method": "Get",
+    "RelativePath": "RolPermisos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.ServiciosController",
+    "Method": "Get",
+    "RelativePath": "Servicios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.SucursalesController",
+    "Method": "Get",
+    "RelativePath": "Sucursales",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.UsuariosController",
+    "Method": "Get",
+    "RelativePath": "Usuarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "asp_servicios_barberia.Controllers.VentaProductosController",
+    "Method": "Get",
+    "RelativePath": "VentaProductos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MSTest_Barberia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdb754ece96189d6f0761972915151d3c74b26fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("MSTest_Barberia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MSTest_Barberia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
